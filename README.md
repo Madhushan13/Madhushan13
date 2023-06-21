@@ -16,9 +16,7 @@
 
 - ⚡ Fun fact **i think i'm funny...**
 
-<h3 align="left">Connect with me:</h3>
-# 💫 About Me:
-🔭 I’m currently working on expense Tracker App<br><br>🌱 I’m currently learning django,python,Machine learning,flutter,Dart,java<br><br>💬 Ask me about python,django<br><br>📫 How to reach me Mdmadhushan250@gmail.com<br><br>⚡ Fun fact i think i'm funny...
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Madhushan13&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -29,6 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=Madhushan13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/madhushan deshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhushan deshapriya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21584281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21584281" height="30" width="40" /></a>
